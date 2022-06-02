@@ -45,7 +45,7 @@ const Navbar = () => {
             <Button priority='high'>CART({numberItems()})</Button>
           </div>
           <button
-            class='hamburger-lines'
+            className='hamburger-lines'
             onClick={() => {
               setVisible(true);
             }}
@@ -63,7 +63,7 @@ const Navbar = () => {
             <li
               onClick={() => setVisible(false)}
               className='navItem'
-              key={linkItem}
+              key={linkItem.name}
             >
               <a>{linkItem.name}</a>
             </li>
