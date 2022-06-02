@@ -1,0 +1,105 @@
+.container {
+  max-width: 1148px;
+  margin: auto;
+}
+
+.productWrapp {
+  display: grid;
+  grid-template-columns: 1.125fr 1fr;
+  gap: 2rem;
+}
+
+.thumbs-wrapper {
+  margin: 0 !important;
+}
+
+.thumbs {
+  padding: 0;
+}
+
+.thumbs > li {
+  width: 24% !important;
+}
+
+.price {
+  color: #7896a5;
+}
+
+.dataContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.dataName {
+  font-weight: 600;
+}
+
+.dataValue {
+  font-weight: 500;
+  color: #7896a5;
+}
+
+.descText {
+  color: #8b8484;
+  margin: 2rem 0;
+}
+
+.featuresList {
+  margin: 0;
+  color: #8b8484;
+  padding: 1rem;
+}
+
+.inputsContent {
+  display: grid;
+  grid-template-columns: 1.5fr 1.5fr 0.6fr;
+  column-gap: 2rem;
+}
+
+.customSelect select {
+  color: #8b8484;
+  width: 100%;
+  border: 1px solid #8b8484;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.qtyInput input {
+  border: 1px solid #8b8484;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+  max-width: 55px;
+}
+.qtyInput input {
+  border: 1px solid #8b8484;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+}
+
+.actionsWrapper {
+  margin: 8em 0;
+  display: grid;
+  column-gap: 2rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+.actionsWrapper button {
+  width: 100%;
+}
+
+.actionsWrapper img {
+  width: 16px;
+}
+
+@media (max-width: 800px) {
+  .productWrapp {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+
+  .qtyInput input {
+    max-width: 38px;
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "code": "XXM0GW0CT55D9CS0020.1.0",
+    "tags": ["Fashion", "Hood, Classic"],
+    "sku": "REQ-RE",
+    "skuOrigin": "XXM0GW0CT55RE0G219",
+    "color": ["Blue", "Red", "White", "black"],
+    "size": ["Small", "Medium", "Large", "XLarge"],
+    "name": "Te shirt",
+    "price": 25.35,
+    "currency": "$",
+    "features": [
+      "Dark blu suit for a tone-on-tone look",
+      "Regulaer fit",
+      "100% Cotton",
+      "Free shipping with4 days delivery"
+    ],
+    "discription": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque ",
+    "stockLevelStatus": "In stock",
+    "mainImage": "/images/product.webp",
+    "images": [
+      { "url": "/images/product.webp" },
+      { "url": "/images/product1.webp" },
+      { "url": "/images/product2.webp" },
+      { "url": "/images/product3.webp" }
+    ]
+  },
+  {
+    "code": "XXM0GW0CT55D9CS0020.1.0",
+    "tags": ["Fashion", "Hood, Classic"],
+    "sku": "REQ-Rde",
+    "skuOrigin": "XXM0GW0CT55RE0G219",
+    "color": ["Blue", "Red", "White", "black"],
+    "size": ["Small", "Medium", "Large", "XLarge"],
+    "name": "Te shirt2",
+    "price": 45.35,
+    "currency": "$",
+    "features": [
+      "Dark blu suit for a tone-on-tone look",
+      "Regulaer fit",
+      "100% Cotton",
+      "Free shipping with4 days delivery"
+    ],
+    "discription": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque ",
+    "stockLevelStatus": "In stock",
+    "mainImage": "/images/product1.webp",
+    "images": [
+      { "url": "/images/product.webp" },
+      { "url": "/images/product1.webp" },
+      { "url": "/images/product2.webp" },
+      { "url": "/images/product3.webp" }
+    ]
+  },
+  {
+    "code": "XXM0GW0CT55D9CS0020.1.0",
+    "tags": ["Fashion", "Hood, Classic"],
+    "sku": "REQ-dsRde",
+    "skuOrigin": "XXM0GW0CT55RE0G219",
+    "color": ["Blue", "Red", "White", "black"],
+    "size": ["Small", "Medium", "Large", "XLarge"],
+    "name": "Te shirt3",
+    "price": 23.35,
+    "currency": "$",
+    "features": [
+      "Dark blu suit for a tone-on-tone look",
+      "Regulaer fit",
+      "100% Cotton",
+      "Free shipping with4 days delivery"
+    ],
+    "discription": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque ",
+    "stockLevelStatus": "out stock",
+    "mainImage": "/images/product2.webp",
+    "images": [
+      { "url": "/images/product.webp" },
+      { "url": "/images/product1.webp" },
+      { "url": "/images/product2.webp" },
+      { "url": "/images/product3.webp" }
+    ]
+  }
+]
